@@ -9,6 +9,7 @@
 
 
 # Languages and Tools
+
 [![Python](https://img.shields.io/badge/Python-Green?style=?style=flat&logo=Python)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML5-Green?style=flat&logo=HTML5)](https://www.w3.org/TR/html5/)
 [![CSS](https://img.shields.io/badge/CSS3-Green?style=flat&logo=CSS3)](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -45,6 +46,18 @@
 [![UnrealEngine](https://img.shields.io/badge/UnrealEngine-Green?style=flat&logo=Unreal%20Engine)](https://www.unrealengine.com/)
 [![Unity](https://img.shields.io/badge/Unity-Green?style=flat&logo=Unity)](https://unity.com/ru)
 [![Blender](https://img.shields.io/badge/Blender-Green?style=flat&logo=Blender)](https://www.blender.org/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-Green?style=flat&logo=PyCharm)](https://www.jetbrains.com/pycharm/)
+[![VisualStudio](https://img.shields.io/badge/Visual%20Studio-Green?style=flat&logo=Visual%20Studio)](https://visualstudio.microsoft.com/)
+[![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-Green?style=flat&logo=Visual%20Studio%20Code)](https://www.blender.org/)
+
 
 
 # Follow me
+
+[![Youtube](https://img.shields.io/badge/Youtube-Green?style=flat&logo=Youtube)](https://youtube.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-Green?style=flat&logo=Telegram)](https://t.me/ghostman2908)
+[![Instagram](https://img.shields.io/badge/Instagram-Green?style=flat&logo=Instagram)](https://www.instagram.com/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Green?style=flat&logo=Linkedin)](https://linkedin.com)
+[![Vk](https://img.shields.io/badge/Vkontakte-Green?style=flat&logo=Vk)](https://www.vk.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-Green?style=flat&logo=Twitter)](https://twitter.com/ru)
+[![Facebook](https://img.shields.io/badge/Facebook-Green?style=flat&logo=Facebook)](https://www.facebook.com/)
