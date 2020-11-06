@@ -37,6 +37,9 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Green?style=flat&logo=Firebase)](https://firebase.google.com/)
 [![Android](https://img.shields.io/badge/Android-Green?style=flat&logo=Android)](https://developer.android.com/)
 [![AndroidStudio](https://img.shields.io/badge/AndroidStudio-Green?style=flat&logo=appveyor)](https://developer.android.com/studio?hl=ru)
+[![UnrealEngine](https://img.shields.io/badge/UnrealEngine-Green?style=flat&logo=Unreal%20Engine)](https://www.unrealengine.com/)
+[![Unity](https://img.shields.io/badge/Unity-Green?style=flat&logo=Unity)](https://unity.com/ru)
+[![Blender](https://img.shields.io/badge/Blender-Green?style=flat&logo=Blender)](https://www.blender.org/)
 
 
 # Follow me
