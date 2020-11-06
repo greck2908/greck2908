@@ -20,7 +20,7 @@
 [![JS](https://img.shields.io/badge/JavaScript-Green?style=flat&logo=JavaScript)](https://www.javascript.com/)
 [![XML](https://img.shields.io/badge/XML-Green?style=flat&logo=appveyor)](https://www.xml.com/)
 [![C](https://img.shields.io/badge/C-Green?style=flat&logo=C)](https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv)
-[![C++](https://img.shields.io/badge/C++-Green?style=flat&logo=Appveyor)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/C++-Green?style=flat&logo=C%2b%2b)](https://isocpp.org/)
 [![UML](https://img.shields.io/badge/UML-Green?style=flat&logo=appveyor)](https://www.uml.org/)
 [![Azure](https://img.shields.io/badge/Azure-Green?style=flat&logo=appveyor)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/AWS-Green?style=flat&logo=appveyor)](https://aws.amazon.com/)
@@ -32,5 +32,11 @@
 [![UnitTesting](https://img.shields.io/badge/UnitTest-Green?style=flat&logo=appveyor)](https://www.software-testing.ru)
 [![ManualTest](https://img.shields.io/badge/ManualTest-Green?style=flat&logo=appveyor)](https://www.software-testing.ru)
 [![React](https://img.shields.io/badge/React-Green?style=flat&logo=React)](https://reactjs.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-Green?style=flat&logo=Flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-Green?style=flat&logo=Dart)](https://dart.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-Green?style=flat&logo=Firebase)](https://firebase.google.com/)
+[![Android](https://img.shields.io/badge/Android-Green?style=flat&logo=Android)](https://developer.android.com/)
+[![AndroidStudio](https://img.shields.io/badge/AndroidStudio-Green?style=flat&logo=appveyor)](https://developer.android.com/studio?hl=ru)
+
 
 # Follow me
