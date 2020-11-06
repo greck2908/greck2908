@@ -61,3 +61,11 @@
 [![Vk](https://img.shields.io/badge/Vkontakte-Green?style=flat&logo=Vk)](https://www.vk.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-Green?style=flat&logo=Twitter)](https://twitter.com/ru)
 [![Facebook](https://img.shields.io/badge/Facebook-Green?style=flat&logo=Facebook)](https://www.facebook.com/)
+
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=greck2908&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greck2908&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
