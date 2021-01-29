@@ -2,7 +2,7 @@
 
 
 # About me
-### I`m Anatoly, a junior front end developer, racing game developer, and mobile dev (novice), creative coder and self-proclaimed designer. I love pixel-perfect websites or applications that run blazing fast. I also love racing simulators, physics and design of racing cars.
+### I`m Anatoly, a junior front end developer, racing game developer, and mobile dev (novice), creative coder and self-proclaimed designer. I love pixel-perfect websites or applications that run blazing fast. I also love 私の動機はCBです &#128147;, racing simulators, physics and design of racing cars.
 
 
 # Latest book
