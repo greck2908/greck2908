@@ -5,8 +5,15 @@
 ### I`m Anatoly, a junior front end developer, racing game developer, and mobile dev (novice), creative coder and self-proclaimed designer. I love pixel-perfect websites or applications that run blazing fast. I also love 私の動機はCBです &#128147;, racing simulators, physics and design of racing cars.
 
 
-# Latest book
-#### Зигард Медникс и др. | Программирование под Android
+# Latest certification
+#### Omsk state technical University | Development mobile application for Android on Kotlin
+#### Stepik | testing Software: Certification ISTQB Foundation
+#### ITC | Web-developing: HTML5 & CSS3
+#### Оmsk state technical university | Engineering graphics
+#### Samara University | Aircraft Engineering
+#### Samara University | How a jet engine works
+#### Financial University under the Government of the Russian Federation | Cybersecurity
+#### Higher School of Economics | Computer graphics
 
 # Languages and Tools
 
