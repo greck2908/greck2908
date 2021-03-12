@@ -37,8 +37,7 @@
 [![C](https://img.shields.io/badge/Code-C-Green?style=flat&logo=C)](https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv)
 [![C++](https://img.shields.io/badge/Code-C++-Green?style=flat&logo=C%2b%2b)](https://isocpp.org/)
 [![UML](https://img.shields.io/badge/Code-UML-Green?style=flat&logo=appveyor)](https://www.uml.org/)
-
-[![Jquery](https://img.shields.io/badge/Library-Jquery-Green?style=flat&logo=Jquery)](https://jquery.com/)
+[![Jquery](https://img.shields.io/badge/Code-Jquery-Green?style=flat&logo=Jquery)](https://jquery.com/)
 
 [![CSS](https://img.shields.io/badge/Style-CSS3-Green?style=flat&logo=CSS3)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![SASS](https://img.shields.io/badge/Style-SASS-Green?style=?style=flat&logo=SASS)](https://sass-lang.com/)
