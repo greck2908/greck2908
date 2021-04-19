@@ -6,8 +6,10 @@
 
 
 # Latest certification
+#### Skoltech | Introduction in IoT
+#### Alfa Bank | Jira
 #### Omsk state technical University | Development mobile application for Android on Kotlin
-#### Stepik | testing Software: Certification ISTQB Foundation
+#### Stepik | Testing Software: Certification ISTQB Foundation
 #### ITC | Web-developing: HTML5 & CSS3
 #### Оmsk state technical university | Engineering graphics
 #### Samara University | Aircraft Engineering
