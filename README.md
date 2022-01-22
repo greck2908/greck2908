@@ -25,7 +25,7 @@
 [![MongoDB](https://img.shields.io/badge/Code-MongoDB-Green?style=?style=flat&logo=MongoDB)](https://www.mongodb.com/)
 [![HTML](https://img.shields.io/badge/Code-HTML5-Green?style=flat&logo=HTML5)](https://www.w3.org/TR/html5/)
 [![NodeJS](https://img.shields.io/badge/Code-NodeJS-Green?style=flat&logo=Node%2EJS)](https://nodejs.org/)
-[![NestJS](https://img.shields.io/badge/Code-Nest-Green?style=flat&logo=Nest%2JS)](https://nestjs.com/)
+[![NestJS](https://img.shields.io/badge/Code-Nest%2JS-Green?style=flat&logo=Nest%2JS)](https://nestjs.com/)
 [![Ajax](https://img.shields.io/badge/Code-Ajax-Green?style=flat&logo=appveyor)](https://www.ibm.com/developerworks/ru/library/wa-ajaxintro1/)
 [![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-Green?style=flat&logo=Bootstrap)](https://getbootstrap.com/)
 [![Android](https://img.shields.io/badge/Code-Android-Green?style=flat&logo=Android)](https://developer.android.com/)
