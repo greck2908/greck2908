@@ -49,6 +49,7 @@
 [![SASS](https://img.shields.io/badge/Style-SASS-Green?style=?style=flat&logo=SASS)](https://sass-lang.com/)
 [![LESS](https://img.shields.io/badge/Style-LESS-Green?style=?style=flat&logo=LESS)](http://lesscss.org/)
 [![SCSS](https://img.shields.io/badge/Style-SCSS-Green?style=?style=flat&logo=appveyor)](https://sass-scss.ru/)
+[![BEM](https://img.shields.io/badge/Style-BEM-Green?style=?style=flat&logo=bem)](https://ru.bem.info/)
 
 [![Wordpress](https://img.shields.io/badge/CMS-Wordpress-Green?style=flat&logo=Wordpress)](https://wordpress.org/)
 
