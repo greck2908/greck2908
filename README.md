@@ -93,8 +93,7 @@
 [![Jasmine](https://img.shields.io/badge/Test-Jasmine-Green?style=flat&logo=Jasmine)](https://jasmine.github.io/)
 [![Jest](https://img.shields.io/badge/Test-Jest-Green?style=flat&logo=Jest)](https://jestjs.io/)
 [![Cypress](https://img.shields.io/badge/Test-Cypress-Green?style=flat&logo=Cypress)](https://www.cypress.io/)
-[![React Testing Library](https://img.shields.io/badge/React-testing-library-Green?style=flat&logo=Cypress)](https://testing-library.com/)
-[![ReactTestingLibrary](https://img.shields.io/badge/Test-React-Testing-Library-Green?style=flat&logo=RTL)](https://testing-library.com/)
+[![ReactTestingLibrary](https://img.shields.io/badge/Test-ReactTestingLibrary-Green?style=flat&logo=RTL)](https://testing-library.com/)
 
 
 
