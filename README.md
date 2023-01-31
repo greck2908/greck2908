@@ -70,6 +70,8 @@
 [![Scrum](https://img.shields.io/badge/Tools-Scrum-Green?style=flat&logo=appveyor)](https://www.scrum.org/index)
 [![Webpack](https://img.shields.io/badge/Tools-Webpack-Green?style=flat&logo=webpack)](https://www.webpack.js.org/)
 [![Gulp](https://img.shields.io/badge/Tools-Gulp-Green?style=flat&logo=Gulp)](https://gulpjs.com/)
+[![Grunt](https://img.shields.io/badge/Tools-Grunt-Green?style=flat&logo=Grunt)](https://gruntjs.com/)
+[![Babel](https://img.shields.io/badge/Tools-Babel-Green?style=flat&logo=Babel)](https://babeljs.io/)
 
 
 [![AndroidStudio](https://img.shields.io/badge/Tools-AndroidStudio-Green?style=flat&logo=appveyor)](https://developer.android.com/studio?hl=ru)
