@@ -69,6 +69,7 @@
 [![YARN](https://img.shields.io/badge/Tools-YARN-Green?style=flat&logo=YARN)](https://yarnpkg.com/)
 [![Scrum](https://img.shields.io/badge/Tools-Scrum-Green?style=flat&logo=appveyor)](https://www.scrum.org/index)
 [![Webpack](https://img.shields.io/badge/Tools-Webpack-Green?style=flat&logo=webpack)](https://www.webpack.js.org/)
+[![Gulp](https://img.shields.io/badge/Tools-Gulp-Green?style=flat&logo=Gulp)](https://gulpjs.com/)
 
 
 [![AndroidStudio](https://img.shields.io/badge/Tools-AndroidStudio-Green?style=flat&logo=appveyor)](https://developer.android.com/studio?hl=ru)
@@ -93,7 +94,7 @@
 [![Jasmine](https://img.shields.io/badge/Test-Jasmine-Green?style=flat&logo=Jasmine)](https://jasmine.github.io/)
 [![Jest](https://img.shields.io/badge/Test-Jest-Green?style=flat&logo=Jest)](https://jestjs.io/)
 [![Cypress](https://img.shields.io/badge/Test-Cypress-Green?style=flat&logo=Cypress)](https://www.cypress.io/)
-[![ReactTestingLibrary](https://img.shields.io/badge/Test-ReactTestingLibrary-Green?style=flat&logo=React-testing)](https://testing-library.com/)
+[![ReactTestingLibrary](https://img.shields.io/badge/Test-ReactTestingLibrary-Green?style=flat&logo=appveyor)](https://testing-library.com/)
 
 
 
